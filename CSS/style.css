@@ -1,0 +1,37 @@
+p {
+    color:black;
+    font-size:30px;
+}
+a {
+    color:#1F22F5;
+    font-size:30px;
+    padding: 550px;
+    }
+body{
+    background-color:#A3E0DA;
+}
+h1 {
+    border:5px solid #4CE353;
+    border-radius:30px;
+    width:30%;
+    padding:15px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 13px 13px 7px #4CE353;
+    background-color:#FFFF00;
+    text-align: center;
+    color:red;
+}
+ul{
+font-size:30px;
+color:#9E437E;
+margin-left: 100px;
+}
+h2{
+   color: #240B39;
+   font-size:30px;
+   text-align: center;
+}
+
+
+
